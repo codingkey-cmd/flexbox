@@ -31,7 +31,7 @@ body {
 }
 
 .inside-card {
-    height: 60%;
+    height: 300px;
     background-color: white;
     width: 75%;
     max-width: 75%;
